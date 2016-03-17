@@ -1,3 +1,10 @@
 body{
     background-color: hotpink;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#reflect{
+    padding:20px;
+    border: 5px solid black;
 }
