@@ -1,11 +1,24 @@
 body{
     background-color: hotpink;
-    margin-left: 50px;
-    margin-right: 50px;
+    /*margin-left: 50px;*/
+    /*margin-right: 50px;*/
 }
 
 #reflect{
     padding:20px;
     border: 5px solid black;
     text-align: center;
+}
+
+.sometext{
+    border:1px dotted black;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#firstimage{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
