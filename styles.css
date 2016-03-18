@@ -51,8 +51,11 @@ a:visited{
     color:hotpink;
 }
 
-/*@media screen and (max-width: 600px) {*/
-/*  body {*/
-/*    AT 600 MAKE ALL THE TEXT SMALLER AND THE PICS SMALLER*/
-/*  }*/
-/*}*/
+@media screen and (max-width: 600px) {
+  body {
+    background-color:LightBlue;
+      }
+  h1{
+      size: 25px;
+    }
+}
