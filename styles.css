@@ -50,3 +50,9 @@ a:link{
 a:visited{
     color:hotpink;
 }
+
+/*@media screen and (max-width: 600px) {*/
+/*  body {*/
+/*    AT 600 MAKE ALL THE TEXT SMALLER AND THE PICS SMALLER*/
+/*  }*/
+/*}*/
