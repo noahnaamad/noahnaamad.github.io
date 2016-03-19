@@ -51,11 +51,25 @@ a:visited{
     color:hotpink;
 }
 
+#table{
+    border: 1px solid grey;
+}
+
 @media screen and (max-width: 600px) {
-  body {
+body{
     background-color:LightBlue;
-      }
-  h1{
-      size: 25px;
+    margin-left:0px;
+    margin-right:0px;
+    }
+
+#otherimage{
+    margin-right: 0px;
+    margin-left: 0px;
+    width:100%;
+    }
+    
+.sometext{
+    padding-left: 0px;
+    padding-right: 0px;
     }
 }
